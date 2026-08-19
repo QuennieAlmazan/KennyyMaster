@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Quennie Joy Almazan 👋
+# Hi, I'm Quennie Joy Almazan 
 
 ### 💻 Full-Stack Web & IoT Developer
 
